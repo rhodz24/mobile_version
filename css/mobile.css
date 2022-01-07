@@ -54,14 +54,14 @@
   width: 45px;
 }
 #testimonials .testimonial {
-  width: 80%;
+  width: 80%; margin-bottom: 30px;
 }
 .bg-primary p {
   font-size: 12px;
   line-height: 11px;
 }
 footer {
-  height: 40px;
+  height: 25px;
 }
 footer p {
   font-size: 12px;
